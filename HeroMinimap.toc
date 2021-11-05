@@ -1,5 +1,5 @@
 ## Title: HeroMinimap
-## Interface: 90100
+## Interface: 90105
 ## Author: harcyah@gmail.com
 ## Notes: A world of warcraft addon, which removes minimap zoom buttons, and allow zoom with mouse wheel
 HeroMinimap.lua
